@@ -35,11 +35,13 @@ Video to Reels is a Streamlit-based application that allows users to upload a vi
 ### 5. Saved Reels
   ![Saved Reels](https://github.com/sanket-164/ReelMaker/blob/main/images/Saved_Reels.png)
 
-### Demo Video
+### Watch the demo of how the application works
 
-Watch the demo of how the application works
-
-[![Watch the video](https://github.com/sanket-164/ReelMaker/blob/main/images/ReelMaker_Logo.png)](https://www.youtube.com/watch?v=yiZHaVVngIE)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=yiZHaVVngIE">
+    <img src="https://github.com/sanket-164/ReelMaker/blob/main/images/ReelMaker_Logo.png" alt="Watch the video" />
+  </a>
+</div>
 
 ## Getting Started
 
