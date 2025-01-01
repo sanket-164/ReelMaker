@@ -1,0 +1,8 @@
+__pycache__
+myenv
+.env
+uploaded_videos
+extracted_audios
+transcribed_texts
+short_reels
+test_files

@@ -1,0 +1,11 @@
+[client]
+showErrorDetails = true
+toolbarMode = "viewer"
+
+[theme]
+base = "dark"
+primaryColor = "#9C27B0"  # Bold purple
+backgroundColor = "#121212"  # Very dark, almost black
+secondaryBackgroundColor = "#1F1B24"  # Dark gray for sidebar
+textColor = "#FFFFFF"  # Pure white for sharp contrast
+font = "monospace"
