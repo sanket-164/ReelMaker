@@ -32,7 +32,7 @@ def send_email(to_email, subject, otp):
                 <tr>
                     <td style="padding: 20px 0; text-align: center;">
                         <img src="https://i.pinimg.com/originals/e4/e5/9c/e4e59c5f8f24911505a7436b61142714.jpg" alt="App Logo" width="100" style="display: block; margin: 0 auto;"/>
-                        <h2 style="color: white; margin: 0;">ReelGinx</h2>
+                        <h2 style="color: white; margin: 0;">ReelMaker</h2>
                     </td>
                 </tr>
                 <tr>
@@ -52,7 +52,7 @@ def send_email(to_email, subject, otp):
                 </tr>
                 <tr>
                     <td style="text-align: center; padding: 10px; background-color: #000000; color: #777;">
-                        <p>Thank you for using <strong>ReelGinx</strong>!</p>
+                        <p>Thank you for using <strong>ReelMaker</strong>!</p>
                     </td>
                 </tr>
             </table>

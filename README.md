@@ -8,6 +8,39 @@ Video to Reels is a Streamlit-based application that allows users to upload a vi
 - **Custom Resolution**: Allows users to select their preferred resolution for the generated reel. 
 - **Download**: Once the reel is generated, users can download the video.
 
+## Screenshots
+
+### 1. Account Management
+- **Login Page**
+  ![Login Page](https://github.com/sanket-164/ReelMaker/blob/main/images/Login_Page.png)
+
+- **Registration Page**
+  ![Registration Page](https://github.com/sanket-164/ReelMaker/blob/main/images/Registration_Page_1.png)
+
+- **Forgot Password**  
+  ![Forgot Password](https://github.com/sanket-164/ReelMaker/blob/main/images/Forgot_Password_1.png)
+
+- **Account**
+  ![Change Profile](https://github.com/sanket-164/ReelMaker/blob/main/images/Account_Page.png)
+
+### 2. Home Page
+  ![Home Page](https://github.com/sanket-164/ReelMaker/blob/main/images/Home_Page_1.png)
+
+### 3. Upload Page
+  ![Upload Page](https://github.com/sanket-164/ReelMaker/blob/main/images/Upload_Page_1.png)
+
+### 4. Reel Generation
+  ![Reel Generation](https://github.com/sanket-164/ReelMaker/blob/main/images/Generate_Reel_2.png)
+
+### 5. Saved Reels
+  ![Saved Reels](https://github.com/sanket-164/ReelMaker/blob/main/images/Saved_Reels.png)
+
+### Demo Video
+
+Watch the demo of how the application works
+
+[![Watch the video](https://github.com/sanket-164/ReelMaker/blob/main/images/ReelMaker_Logo.png)](https://www.youtube.com/watch?v=yiZHaVVngIE)
+
 ## Getting Started
 
 ### Prerequisites
